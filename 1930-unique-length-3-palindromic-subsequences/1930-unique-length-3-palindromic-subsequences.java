@@ -24,11 +24,11 @@ class Solution {
             int firstIndex=firstIdxMap.get(ch);
             int lastIndex=lastIdxMap.get(ch);
             if(value>1 && firstIndex+1<lastIndex){
-                Map<Character,Integer> unqMap=new HashMap();
+                Set<Character> unqSet=new HashSet();
                 for(int i=firstIndex+1;i<lastIndex;i++){
-                    unqMap.put(s.charAt(i),0);
+                    unqSet.add(s.charAt(i));
                 }
-                ans=ans+unqMap.size();
+                ans=ans+unqSet.size();
                 // System.out.println(ch+" "+ans+" "+unqChar[lastIndex]+" "+unqChar[firstIndex]+" "+value);
             }
         }
