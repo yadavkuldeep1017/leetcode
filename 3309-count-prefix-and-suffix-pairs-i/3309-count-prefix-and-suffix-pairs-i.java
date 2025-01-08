@@ -7,8 +7,8 @@ class Solution {
             for(int j=i+1;j<n;j++){
                 int jLen=words[j].length();
                 if(jLen>=strLen){
-                    if(words[i].equals(words[j].substring(0,strLen)) && 
-                        words[i].equals(words[j].substring(jLen-strLen,jLen))){
+                    if(words[j].startsWith(words[i]) && 
+                        words[j].endsWith(words[i])){
                         ans++;
                     }
                 }
