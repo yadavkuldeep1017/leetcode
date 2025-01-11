@@ -8,7 +8,6 @@ class Solution {
             return false;
         }
         int[] charArray = new int[26];
-        Map<Character, Integer> map = new HashMap();
         for (Character ch : s.toCharArray()) {
             int value = ch - 'a';
             charArray[value] += 1;
@@ -17,9 +16,6 @@ class Solution {
         for (int i = 0; i < 26; i++) {
             countOdd += (charArray[i] & 1) == 0 ? 0 : 1;
         }
-        if (countOdd <= k) {
-            return true;
-        }
-        return false;
+        return countOdd <= k?true:false;
     }
 }
