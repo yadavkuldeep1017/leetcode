@@ -9,8 +9,7 @@ class Solution {
         }
         int[] charArray = new int[26];
         for (Character ch : s.toCharArray()) {
-            int value = ch - 'a';
-            charArray[value] += 1;
+            charArray[ch-'a'] += 1;
         }
         int countOdd = 0;
         for (int i = 0; i < 26; i++) {
