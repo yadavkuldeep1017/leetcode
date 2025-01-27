@@ -6,7 +6,7 @@ class Solution {
 		while (start < end) {
 			if (!Character.isLetter(ans.charAt(start))) {
 				start++;
-			} else if (!Character.isLetterOrDigit(ans.charAt(end))) {
+			} else if (!Character.isLetter(ans.charAt(end))) {
 				end--;
 			} else {
 				char temp=ans.charAt(start);
