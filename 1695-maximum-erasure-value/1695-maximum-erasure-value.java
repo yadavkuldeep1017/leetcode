@@ -9,15 +9,15 @@ class Solution {
         int currentSum = nums[0];
         map.put( nums[0], 0);
         for(int i = 1; i < n; i++){
+            if(map.containsKey(nums[i])){
+                int currentValue = map.get(nums[i]);
+                if(currentValue >= prevIndex){
+                    prevIndex = currentValue;
+                    currentSum = prefixSum[i-1] - prefixSum[prevIndex];
+                }   
+            }
+            currentSum += nums[i];
             prefixSum[i] = prefixSum[i-1] + nums[i];
-            if(map.containsKey(nums[i]) &&
-            map.get(nums[i]) >= prevIndex ){
-                prevIndex = map.get(nums[i]);
-                currentSum = prefixSum[i] - prefixSum[prevIndex];
-            }
-            else{
-                currentSum += nums[i];
-            }
             maxSum = Math.max(maxSum,currentSum);
             map.put(nums[i] , i);
         }
