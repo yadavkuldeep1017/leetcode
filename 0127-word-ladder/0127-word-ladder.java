@@ -27,20 +27,13 @@ class Solution {
         return adjList;
     }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        int src = 0;
-        if(!wordList.contains(beginWord)){
+        int src = wordList.indexOf(beginWord);
+        if(src == -1){
             wordList.add(beginWord);
             src = wordList.size() - 1;
-        }else{
-            for(int i = 0;i < wordList.size(); i++){
-                if(wordList.get(i).equals(beginWord)){
-                    src = i;
-                }
-            }
         }
-         int k = wordList.size();
+        int k = wordList.size();
         List<List<Integer>> adjList = getAdjList(wordList, k);
-        // System.out.println(adjList);
 
         boolean[] visited = new boolean[k];
         int[] distance = new int[k];
@@ -59,15 +52,9 @@ class Solution {
                 distance[n] = Math.min(distance[n],distance[num] + 1);
             }
         }
-        // for(int i = 0; i < wordList.size(); i++){
-        //     System.out.println(distance[i]);
-        // }
         for(int i = 0; i < wordList.size(); i++){
             if(wordList.get(i).equals(endWord)){
-                if(distance[i] == Integer.MAX_VALUE){
-                    return 0;
-                }
-                return distance[i] + 1;
+                return distance[i] == Integer.MAX_VALUE ? 0 : distance[i] + 1;
             }
         }
         return 0;
