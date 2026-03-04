@@ -18,8 +18,13 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
