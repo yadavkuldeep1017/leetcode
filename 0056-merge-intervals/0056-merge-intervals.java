@@ -9,34 +9,18 @@ class Solution {
                 return Integer.compare(x[0], y[0]);
             }
         });
-
-        int i = 0;
-        List<Pair> list = new ArrayList();
-        while(i < n){
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-            while(i + 1 < n){
-                end = Math.max(end, intervals[i][1]);
-                if(end < intervals[i+1][0]){
-                    break;
-                }
-                end = Math.max(end, intervals[i + 1][1]);
-                i++;
-                // System.out.println(end);
+        List<int[]> list = new ArrayList();
+        int[] newInterval = intervals[0];
+        list.add(newInterval);
+        for(int[] interval: intervals){
+            if(newInterval[1] >= interval[0]){
+                newInterval[1] = Math.max(interval[1], newInterval[1]);
             }
-                            // System.out.println(start+ " "+end);
-
-            Pair<Integer, Integer> pair = new Pair(start, end);
-            list.add(pair);
-            i++;
+            else{
+                newInterval = interval;
+                list.add(newInterval);
+            }
         }
-
-        int[][] ans = new int[list.size()][2];
-        for(int j = 0; j < list.size(); j++){
-            Pair<Integer, Integer> pair = list.get(j);
-            ans[j][0] = pair.getKey();
-            ans[j][1] = pair.getValue();
-        }
-        return ans;
+        return list.toArray(new int[list.size()][]);
     }
 }
