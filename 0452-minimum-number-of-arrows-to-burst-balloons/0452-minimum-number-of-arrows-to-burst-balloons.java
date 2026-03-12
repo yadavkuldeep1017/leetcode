@@ -12,10 +12,6 @@ class Solution {
         });
         int ans = 1;
         int max = points[0][1];
-        // for(int[] point:points){
-        //     System.out.print(point[0]+" "+point[1]);
-        //     System.out.println();
-        // }
 
         for(int[] point:points){
             if(point[0] > max){
