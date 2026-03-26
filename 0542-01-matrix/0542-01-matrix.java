@@ -18,14 +18,12 @@ class Solution {
         int[] delrow = {-1, 1, 0, 0};
         int[] delcol = {0, 0, -1, 1};
         while(!q.isEmpty()){
-            
             int[] qPoll = q.poll();
-            distance[qPoll[0]][qPoll[1]] = qPoll[2];
             for(int i = 0; i < 4; i++){
                 int nrow = qPoll[0] + delrow[i];
                 int ncol = qPoll[1] + delcol[i];
                 if(nrow >= 0 && nrow < row && ncol >= 0 && ncol < col && distance[nrow][ncol] == Integer.MAX_VALUE){
-                    distance[nrow][ncol] = 1;
+                    distance[nrow][ncol] = qPoll[2] + 1;
                     q.add(new int[]{nrow, ncol, qPoll[2] + 1});
                 }
 
