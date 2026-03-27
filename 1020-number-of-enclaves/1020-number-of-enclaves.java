@@ -3,7 +3,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         boolean[][] visited = new boolean[m][n];
-        Queue<Pair<Integer,Integer>>  q = new LinkedList();
+        Queue<Pair<Integer,Integer>>  q = new ArrayDeque();
         //first row
         for(int i = 0; i < n; i++){
             if(grid[0][i] == 1){
