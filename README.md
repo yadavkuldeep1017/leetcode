@@ -72,6 +72,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Leetcode problems solved by me...
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ Leetcode problems solved by me...
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -101,12 +104,15 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
