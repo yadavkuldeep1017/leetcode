@@ -1,5 +1,16 @@
 class Solution {
 
+    public List<List<Pair<Integer,Integer>>> getAdjList(int n, int[][] flights){
+        List<List<Pair<Integer,Integer>>> adjList = new ArrayList();
+        for(int i = 0; i < n; i++){
+            adjList.add(new ArrayList());
+        }
+        for(int i = 0; i < flights.length; i++){
+            adjList.get(flights[i][0]).add(new Pair(flights[i][1], flights[i][2]));
+        }
+        return adjList;
+    }
+
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         List<List<int[]>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
@@ -7,32 +18,26 @@ class Solution {
         for(int[] f : flights){
             adj.get(f[0]).add(new int[]{f[1], f[2]});
         }
-        Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{src, 0, 0}); // node, cost, stops
-
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[src] = 0;
-
+        // System.out.println(adjList);
+        int[] distance = new int[n];
+        Arrays.fill(distance, Integer.MAX_VALUE);
+        Queue<int[]> q = new LinkedList();
+        q.add(new int[]{0, src, 0});
+        distance[src] = 0;
         while(!q.isEmpty()){
-            int[] curr = q.poll();
-            int node = curr[0];
-            int cost = curr[1];
-            int stops = curr[2];
-
-            if(stops > k) continue;
-
-            for(int[] nei : adj.get(node)){
-                int next = nei[0];
-                int price = nei[1];
-
-                if(cost + price < dist[next]){
-                    dist[next] = cost + price;
-                    q.add(new int[]{next, dist[next], stops + 1});
+            int[] flight = q.poll();
+            if(flight[0] <= k){
+                for(int[] pair: adj.get(flight[1])){
+                    int node = pair[0];
+                    int dist = pair[1];
+                    int newDistance = dist + flight[2];
+                    if(distance[node] > newDistance){    
+                        q.add(new int[]{flight[0] + 1, node, newDistance});
+                        distance[node] = newDistance;
+                    }
                 }
             }
         }
-
-        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
+        return distance[dst] == Integer.MAX_VALUE ? -1 : distance[dst];
     }
 }
