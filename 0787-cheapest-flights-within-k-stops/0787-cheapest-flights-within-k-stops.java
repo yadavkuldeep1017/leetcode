@@ -1,16 +1,5 @@
 class Solution {
 
-    public List<List<Pair<Integer,Integer>>> getAdjList(int n, int[][] flights){
-        List<List<Pair<Integer,Integer>>> adjList = new ArrayList();
-        for(int i = 0; i < n; i++){
-            adjList.add(new ArrayList());
-        }
-        for(int i = 0; i < flights.length; i++){
-            adjList.get(flights[i][0]).add(new Pair(flights[i][1], flights[i][2]));
-        }
-        return adjList;
-    }
-
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
         List<List<int[]>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
@@ -18,7 +7,6 @@ class Solution {
         for(int[] f : flights){
             adj.get(f[0]).add(new int[]{f[1], f[2]});
         }
-        // System.out.println(adjList);
         int[] distance = new int[n];
         Arrays.fill(distance, Integer.MAX_VALUE);
         Queue<int[]> q = new LinkedList();
