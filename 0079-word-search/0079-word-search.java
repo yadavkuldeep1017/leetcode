@@ -1,37 +1,33 @@
 class Solution {
 
-    public boolean isExistWord(char[][] board, String word, boolean[][] visited, int r, int c, int index) {
+    public boolean dfs(char[][] board, String word, int r, int c, int index) {
+        // ✅ All characters matched
         if (index == word.length()) {
             return true;
         }
 
-        visited[r][c] = true;
-
         int m = board.length;
         int n = board[0].length;
 
-        int[] rowArr = {-1, 1, 0, 0};
-        int[] colArr = {0, 0, -1, 1};
-
-        for (int i = 0; i < 4; i++) {
-            int newRow = r + rowArr[i];
-            int newCol = c + colArr[i];
-
-            if (newRow >= 0 && newRow < m &&
-                newCol >= 0 && newCol < n &&
-                !visited[newRow][newCol] &&
-                word.charAt(index) == board[newRow][newCol]) {
-
-                if (isExistWord(board, word, visited, newRow, newCol, index + 1)) {
-                    return true;
-                }
-            }
+        // ❌ Boundary + mismatch check
+        if (r < 0 || r >= m || c < 0 || c >= n || board[r][c] != word.charAt(index)) {
+            return false;
         }
 
-        // 🔥 BACKTRACK
-        visited[r][c] = false;
+        // 🔥 Mark visited (in-place)
+        char temp = board[r][c];
+        board[r][c] = '#';
 
-        return false;
+        // Explore all 4 directions
+        boolean found = dfs(board, word, r - 1, c, index + 1) ||
+                        dfs(board, word, r + 1, c, index + 1) ||
+                        dfs(board, word, r, c - 1, index + 1) ||
+                        dfs(board, word, r, c + 1, index + 1);
+
+        // 🔥 Backtrack (restore original value)
+        board[r][c] = temp;
+
+        return found;
     }
 
     public boolean exist(char[][] board, String word) {
@@ -41,12 +37,8 @@ class Solution {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
-                if (board[i][j] == word.charAt(0)) {
-                    boolean[][] visited = new boolean[m][n];
-
-                    if (isExistWord(board, word, visited, i, j, 1)) {
-                        return true;
-                    }
+                if (dfs(board, word, i, j, 0)) {
+                    return true;
                 }
             }
         }
