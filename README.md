@@ -16,6 +16,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0205-isomorphic-strings](https://github.com/yadavkuldeep1017/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## Array
@@ -24,6 +25,7 @@ Leetcode problems solved by me...
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/yadavkuldeep1017/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/yadavkuldeep1017/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -41,6 +43,7 @@ Leetcode problems solved by me...
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -78,9 +81,11 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
