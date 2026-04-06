@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             Arrays.fill(distance[i], Integer.MAX_VALUE);
         }
-        Queue<int[]> q = new PriorityQueue<>((a, b) -> Integer.compare(a[2], b[2]));//{i, j, dist}
+        Queue<int[]> q = new LinkedList();//{i, j, dist}
         q.add(new int[]{0, 0, 1});
         distance[0][0] = 1;
         while(!q.isEmpty()){
