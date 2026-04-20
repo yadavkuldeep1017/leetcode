@@ -20,6 +20,7 @@ Leetcode problems solved by me...
 | [0205-isomorphic-strings](https://github.com/yadavkuldeep1017/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Leetcode problems solved by me...
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
