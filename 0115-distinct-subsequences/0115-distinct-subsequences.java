@@ -50,17 +50,10 @@ class Solution {
         if(dp[m][n] != n){
             return 0;
         }
-        // for(int i = 0; i <= s.length(); i++){
-        //     for(int j = 0; j <= t.length(); j++){
-        //         System.out.print(dp[i][j]);
-        //     }
-        //     System.out.println();
-        // }
         int[][] visited = new int[m][n];
         for(int i = 0; i < m; i++){
             Arrays.fill(visited[i], Integer.MAX_VALUE);
         }
         return findDistinct(s, t, dp, m, n,visited);
-        // return 0;
     }
 }
