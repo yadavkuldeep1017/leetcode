@@ -5,8 +5,9 @@ class Solution {
         int n = t.length();
         int[][] dp = new int[m + 1][n + 1];
         for(int i = 1; i <= m; i++){
+            char ch = s.charAt(i - 1);
             for(int j = 1; j <= n; j++){
-                if(s.charAt(i - 1) == t.charAt(j - 1)){
+                if(ch == t.charAt(j - 1)){
                     dp[i][j] = dp[i -1][j - 1] + 1;
                 }
                 else{
