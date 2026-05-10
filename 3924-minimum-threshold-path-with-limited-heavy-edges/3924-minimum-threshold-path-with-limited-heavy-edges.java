@@ -1,28 +1,47 @@
 class Solution {
 
-    public boolean isPossible(List<List<int[]>> adjList, int n, int source, int target, int k, int threshold){
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        Queue<int[]> q = new PriorityQueue<>((a,b) -> Integer.compare(a[1], b[1]));
-        q.offer(new int[]{source, 0});
-        dist[source] = 0;
-        while(!q.isEmpty()){
-            int[] data = q.poll();
-            int node = data[0];
-            int weight = data[1];
-            if(node == target){
-                return weight <= k;
-            }
-            for(int[] edge: adjList.get(node)){
-                int newCost = weight + (edge[1] > threshold ? 1 : 0);
-                if(dist[edge[0]] > newCost){
-                    dist[edge[0]] = newCost;
-                    q.offer(new int[]{edge[0], newCost});
+    public boolean isPossible(List<List<int[]>> adjList,
+                          int n,
+                          int source,
+                          int target,
+                          int k,
+                          int threshold){
+
+    int[] dist = new int[n];
+    Arrays.fill(dist, Integer.MAX_VALUE);
+
+    Deque<Integer> dq = new ArrayDeque<>();
+
+    dq.offerFirst(source);
+    dist[source] = 0;
+
+    while(!dq.isEmpty()){
+
+        int node = dq.pollFirst();
+
+        for(int[] edge : adjList.get(node)){
+
+            int next = edge[0];
+
+            int cost = (edge[1] > threshold) ? 1 : 0;
+
+            int newCost = dist[node] + cost;
+
+            if(newCost < dist[next]){
+
+                dist[next] = newCost;
+
+                if(cost == 0){
+                    dq.offerFirst(next);
+                }else{
+                    dq.offerLast(next);
                 }
             }
         }
-        return false;
     }
+
+    return dist[target] <= k;
+}
 
     public int minimumThreshold(int n, int[][] edges, int source, int target, int k) {
         List<List<int[]>> adjList = new ArrayList();
