@@ -14,6 +14,7 @@ Leetcode problems solved by me...
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Leetcode problems solved by me...
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
