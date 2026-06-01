@@ -51,6 +51,7 @@ Leetcode problems solved by me...
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yadavkuldeep1017/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -87,6 +88,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +179,8 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0139-word-break](https://github.com/yadavkuldeep1017/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
