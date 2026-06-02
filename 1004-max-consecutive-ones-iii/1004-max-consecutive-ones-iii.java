@@ -1,23 +1,27 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        Queue<Integer> q = new ArrayDeque();
-        int max = 0;
-        int i = 0;
         int start = 0;
-        while (i < nums.length) {
+        int maxLen = 0;
+        int zeroCount = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            // Expand the window: count the zero if we encounter one
             if (nums[i] == 0) {
-                if (k == 0) {
-                    start = i + 1;
-                } else {
-                    if (q.size() == k) {
-                        start = q.poll() + 1;
-                    } 
-                    q.add(i);
-                }
+                zeroCount++;
             }
-            max = Math.max(max, i - start + 1);
-            i++;
+
+            // Shrink the window: if zeros exceed k, move the start pointer
+            while (zeroCount > k) {
+                if (nums[start] == 0) {
+                    zeroCount--;
+                }
+                start++;
+            }
+
+            // Update the maximum window size found so far
+            maxLen = Math.max(maxLen, i - start + 1);
         }
-        return max;
+
+        return maxLen;
     }
 }
