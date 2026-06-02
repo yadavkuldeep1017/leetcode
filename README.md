@@ -49,6 +49,7 @@ Leetcode problems solved by me...
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -88,6 +89,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Leetcode problems solved by me...
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -182,5 +185,6 @@ Leetcode problems solved by me...
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
