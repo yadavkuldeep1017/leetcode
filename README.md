@@ -14,6 +14,7 @@ Leetcode problems solved by me...
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavkuldeep1017/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -29,6 +30,7 @@ Leetcode problems solved by me...
 | [0205-isomorphic-strings](https://github.com/yadavkuldeep1017/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavkuldeep1017/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -137,6 +139,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/yadavkuldeep1017/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
