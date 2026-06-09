@@ -64,6 +64,7 @@ Leetcode problems solved by me...
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Leetcode problems solved by me...
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yadavkuldeep1017/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
