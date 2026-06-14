@@ -93,6 +93,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -201,4 +202,12 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
