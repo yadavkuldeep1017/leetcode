@@ -17,13 +17,13 @@ class Solution {
                     freqCountMap.put(charFreq, currFreqCount - 1);
                 }
                 int newCharFreq = charFreq + 1;
-
                 charFreqMap.put(nums[j], newCharFreq);
                 freqCountMap.put(newCharFreq, freqCountMap.getOrDefault(newCharFreq, 0) + 1);
-                if(freqCountMap.size() == 1 && charFreqMap.size() == 1){
+                int fSize = freqCountMap.size();
+                if(fSize == 1 && charFreqMap.size() == 1){
                     ans = Math.max(ans, j - i + 1);
                 }
-                else if(freqCountMap.size() == 2){
+                else if(fSize == 2){
                     int min = Integer.MAX_VALUE;
                     int max = Integer.MIN_VALUE;
                     for(int key: freqCountMap.keySet()){
@@ -36,6 +36,9 @@ class Solution {
                     }
                 }
                 // System.out.println(i+" "+j+" "+ans);
+            }
+            if(ans == n - i + 1){
+                return ans;
             }
         }
         return ans;
