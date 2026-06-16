@@ -37,6 +37,7 @@ Leetcode problems solved by me...
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
