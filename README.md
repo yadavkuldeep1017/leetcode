@@ -16,6 +16,7 @@ Leetcode problems solved by me...
 | [0290-word-pattern](https://github.com/yadavkuldeep1017/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavkuldeep1017/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -34,6 +35,7 @@ Leetcode problems solved by me...
 | [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -225,5 +227,6 @@ Leetcode problems solved by me...
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
