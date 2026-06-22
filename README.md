@@ -135,6 +135,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0052-n-queens-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Depth-First Search
