@@ -20,6 +20,7 @@ Leetcode problems solved by me...
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Leetcode problems solved by me...
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +234,17 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
