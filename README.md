@@ -39,6 +39,7 @@ Leetcode problems solved by me...
 | [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavkuldeep1017/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Array
@@ -69,6 +70,7 @@ Leetcode problems solved by me...
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavkuldeep1017/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yadavkuldeep1017/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
