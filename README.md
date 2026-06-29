@@ -49,6 +49,7 @@ Leetcode problems solved by me...
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/yadavkuldeep1017/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/yadavkuldeep1017/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yadavkuldeep1017/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -89,6 +90,7 @@ Leetcode problems solved by me...
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yadavkuldeep1017/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -189,6 +191,7 @@ Leetcode problems solved by me...
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/yadavkuldeep1017/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/yadavkuldeep1017/leetcode/tree/main/0139-word-break/) | Medium |
