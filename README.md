@@ -163,6 +163,7 @@ Leetcode problems solved by me...
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,16 +177,19 @@ Leetcode problems solved by me...
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
