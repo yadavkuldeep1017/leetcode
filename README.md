@@ -19,6 +19,7 @@ Leetcode problems solved by me...
 | [1189-maximum-number-of-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yadavkuldeep1017/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -76,6 +77,7 @@ Leetcode problems solved by me...
 | [1331-rank-transform-of-an-array](https://github.com/yadavkuldeep1017/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavkuldeep1017/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -94,6 +96,7 @@ Leetcode problems solved by me...
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/yadavkuldeep1017/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/yadavkuldeep1017/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -124,6 +127,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0443-string-compression](https://github.com/yadavkuldeep1017/leetcode/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
