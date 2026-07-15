@@ -6,7 +6,6 @@ class Solution {
         int lastZeroIndex = -1;
         int startIndex = 0;
         while(i < n){
-            int noOfZeros = lastZeroIndex == -1 ? 0 : 1;
             if(nums[i] == 0){
                 if(lastZeroIndex != -1){
                     startIndex = lastZeroIndex + 1;
@@ -14,7 +13,7 @@ class Solution {
                 lastZeroIndex = i;
             }
             else{
-                maxLength = Math.max(maxLength, i - startIndex + 1 - noOfZeros);
+                maxLength = Math.max(maxLength, i - startIndex + 1 - (lastZeroIndex == -1 ? 0 : 1));
             }
             i++;
         }
