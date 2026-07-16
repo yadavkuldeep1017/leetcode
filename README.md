@@ -69,6 +69,7 @@ Leetcode problems solved by me...
 | [0518-coin-change-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/yadavkuldeep1017/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -246,6 +247,7 @@ Leetcode problems solved by me...
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/yadavkuldeep1017/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -269,6 +271,7 @@ Leetcode problems solved by me...
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/yadavkuldeep1017/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yadavkuldeep1017/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
