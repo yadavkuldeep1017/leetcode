@@ -102,6 +102,7 @@ Leetcode problems solved by me...
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Leetcode problems solved by me...
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadavkuldeep1017/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
