@@ -3,7 +3,7 @@ class Solution {
         int m = maze.length;
         int n = maze[0].length;
         boolean[][] visited = new boolean[m][n];
-        Queue<int[]> q = new ArrayDeque();
+        Queue<int[]> q = new LinkedList();
         q.add(new int[]{entrance[0], entrance[1]});
         visited[entrance[0]][entrance[1]] = true;
         int path = 1;
