@@ -85,6 +85,7 @@ Leetcode problems solved by me...
 | [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yadavkuldeep1017/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavkuldeep1017/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yadavkuldeep1017/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -121,6 +122,7 @@ Leetcode problems solved by me...
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yadavkuldeep1017/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ Leetcode problems solved by me...
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/yadavkuldeep1017/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
