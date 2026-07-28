@@ -189,6 +189,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
+| [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -200,6 +201,7 @@ Leetcode problems solved by me...
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/yadavkuldeep1017/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/yadavkuldeep1017/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/yadavkuldeep1017/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -313,4 +315,12 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
