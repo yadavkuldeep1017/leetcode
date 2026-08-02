@@ -74,6 +74,7 @@ Leetcode problems solved by me...
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavkuldeep1017/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/yadavkuldeep1017/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -133,6 +134,7 @@ Leetcode problems solved by me...
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavkuldeep1017/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadavkuldeep1017/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -259,6 +261,7 @@ Leetcode problems solved by me...
 | [0518-coin-change-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yadavkuldeep1017/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -338,4 +341,5 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
