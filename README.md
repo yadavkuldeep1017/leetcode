@@ -68,6 +68,7 @@ Leetcode problems solved by me...
 | [0322-coin-change](https://github.com/yadavkuldeep1017/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yadavkuldeep1017/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavkuldeep1017/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -130,6 +131,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavkuldeep1017/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadavkuldeep1017/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -252,6 +254,7 @@ Leetcode problems solved by me...
 | [0198-house-robber](https://github.com/yadavkuldeep1017/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/yadavkuldeep1017/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/yadavkuldeep1017/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -327,4 +330,12 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/yadavkuldeep1017/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
