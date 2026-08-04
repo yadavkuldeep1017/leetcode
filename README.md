@@ -23,6 +23,7 @@ Leetcode problems solved by me...
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Leetcode problems solved by me...
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ Leetcode problems solved by me...
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
