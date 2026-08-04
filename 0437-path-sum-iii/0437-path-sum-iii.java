@@ -1,38 +1,37 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public int countPath(TreeNode root, long targetSum){
-        if(root == null){
-            return 0;
-        }
-        int ans = 0;
-        if(root.val == targetSum){
-            ans++; 
-        }
-        ans += countPath(root.left, targetSum - root.val);
-        ans += countPath(root.right, targetSum - root.val);
-        return ans;
-    }
+
     public int pathSum(TreeNode root, int targetSum) {
-        if(root == null){
+        if (root == null) {
             return 0;
         }
-        int ans = countPath(root, targetSum);
-        ans += pathSum(root.left, targetSum);
-        ans += pathSum(root.right, targetSum);
-        return ans;
+
+        // Paths starting exactly at root
+        int pathsStartingHere = countPaths(root, targetSum);
+
+        // Paths starting somewhere in the left or right subtree
+        int pathsInLeftSubtree = pathSum(root.left, targetSum);
+        int pathsInRightSubtree = pathSum(root.right, targetSum);
+
+        return pathsStartingHere
+                + pathsInLeftSubtree
+                + pathsInRightSubtree;
+    }
+
+    private int countPaths(TreeNode node, long remainingSum) {
+        if (node == null) {
+            return 0;
+        }
+
+        int count = 0;
+
+        if (node.val == remainingSum) {
+            count++;
+        }
+
+        // Once the path starts, it can only continue downward.
+        count += countPaths(node.left, remainingSum - node.val);
+        count += countPaths(node.right, remainingSum - node.val);
+
+        return count;
     }
 }
