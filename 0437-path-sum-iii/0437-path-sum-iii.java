@@ -1,37 +1,45 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-
     public int pathSum(TreeNode root, int targetSum) {
+        HashMap<Long, Integer> map = new HashMap<>();
+        // Initial prefix sum = 0
+        map.put(0L, 1);
+        return dfs(root, 0L, targetSum, map);
+    }
+    private int dfs(TreeNode root, long currSum, int targetSum,
+        HashMap<Long, Integer> map) {
         if (root == null) {
             return 0;
         }
 
-        // Paths starting exactly at root
-        int pathsStartingHere = countPaths(root, targetSum);
+        currSum += root.val;
 
-        // Paths starting somewhere in the left or right subtree
-        int pathsInLeftSubtree = pathSum(root.left, targetSum);
-        int pathsInRightSubtree = pathSum(root.right, targetSum);
+        // Count paths ending at current node
+        int count = map.getOrDefault(currSum - targetSum, 0);
 
-        return pathsStartingHere
-                + pathsInLeftSubtree
-                + pathsInRightSubtree;
-    }
+        // Store current prefix sum
+        map.put(currSum, map.getOrDefault(currSum, 0) + 1);
 
-    private int countPaths(TreeNode node, long remainingSum) {
-        if (node == null) {
-            return 0;
-        }
+        // Explore left and right subtrees
+        count += dfs(root.left, currSum, targetSum, map);
+        count += dfs(root.right, currSum, targetSum, map);
 
-        int count = 0;
-
-        if (node.val == remainingSum) {
-            count++;
-        }
-
-        // Once the path starts, it can only continue downward.
-        count += countPaths(node.left, remainingSum - node.val);
-        count += countPaths(node.right, remainingSum - node.val);
-
+        // Backtrack
+        map.put(currSum, map.get(currSum) - 1);
         return count;
     }
 }
