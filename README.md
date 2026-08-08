@@ -206,6 +206,7 @@ Leetcode problems solved by me...
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/yadavkuldeep1017/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -223,6 +224,7 @@ Leetcode problems solved by me...
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yadavkuldeep1017/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/yadavkuldeep1017/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -240,6 +242,7 @@ Leetcode problems solved by me...
 | [0743-network-delay-time](https://github.com/yadavkuldeep1017/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yadavkuldeep1017/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/yadavkuldeep1017/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
