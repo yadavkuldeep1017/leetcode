@@ -52,6 +52,7 @@ Leetcode problems solved by me...
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ Leetcode problems solved by me...
 | [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
