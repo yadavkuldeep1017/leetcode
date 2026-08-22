@@ -98,6 +98,7 @@ Leetcode problems solved by me...
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavkuldeep1017/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -144,6 +145,7 @@ Leetcode problems solved by me...
 | [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yadavkuldeep1017/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1510-stone-game-iv](https://github.com/yadavkuldeep1017/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -182,6 +184,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/yadavkuldeep1017/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
@@ -380,4 +383,13 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/yadavkuldeep1017/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
