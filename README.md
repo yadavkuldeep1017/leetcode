@@ -47,6 +47,7 @@ Leetcode problems solved by me...
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yadavkuldeep1017/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yadavkuldeep1017/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yadavkuldeep1017/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -170,6 +171,7 @@ Leetcode problems solved by me...
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yadavkuldeep1017/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yadavkuldeep1017/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yadavkuldeep1017/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yadavkuldeep1017/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavkuldeep1017/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
