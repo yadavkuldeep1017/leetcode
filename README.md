@@ -99,6 +99,7 @@ Leetcode problems solved by me...
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yadavkuldeep1017/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/yadavkuldeep1017/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yadavkuldeep1017/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -120,6 +121,7 @@ Leetcode problems solved by me...
 | [1833-maximum-ice-cream-bars](https://github.com/yadavkuldeep1017/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yadavkuldeep1017/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yadavkuldeep1017/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -249,6 +251,7 @@ Leetcode problems solved by me...
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yadavkuldeep1017/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yadavkuldeep1017/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
