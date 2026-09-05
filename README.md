@@ -30,6 +30,7 @@ Leetcode problems solved by me...
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
@@ -160,6 +161,7 @@ Leetcode problems solved by me...
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0443-string-compression](https://github.com/yadavkuldeep1017/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -274,6 +276,7 @@ Leetcode problems solved by me...
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/yadavkuldeep1017/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/yadavkuldeep1017/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -405,4 +408,8 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
