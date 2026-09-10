@@ -1,6 +1,5 @@
 class Solution {
     public String minWindow(String s, String t) {
-
         Map<Character, Integer> countT = new HashMap();
         for(char ch: t.toCharArray()){
             countT.put(ch, countT.getOrDefault(ch, 0) + 1);
@@ -39,10 +38,12 @@ class Solution {
             }
             j++;
         }
-        
         return leftIndex == -1 ? "" : s.substring(leftIndex, rightIndex + 1);
     }
     boolean mapEquals(Map<Character, Integer> map1, Map<Character, Integer> map2){
+        if(map1.size() < map2.size()){
+            return false;
+        }
         for(char ch: map2.keySet()){
             if(map1.containsKey(ch)){   
                 int value2 = map2.get(ch);
