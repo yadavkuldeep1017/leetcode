@@ -231,6 +231,7 @@ Leetcode problems solved by me...
 | [0841-keys-and-rooms](https://github.com/yadavkuldeep1017/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yadavkuldeep1017/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yadavkuldeep1017/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yadavkuldeep1017/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/yadavkuldeep1017/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -366,12 +367,14 @@ Leetcode problems solved by me...
 | [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yadavkuldeep1017/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/yadavkuldeep1017/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yadavkuldeep1017/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
