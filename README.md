@@ -8,6 +8,7 @@ Leetcode problems solved by me...
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yadavkuldeep1017/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/yadavkuldeep1017/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0202-happy-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0202-happy-number/) | Easy |
@@ -33,6 +34,7 @@ Leetcode problems solved by me...
 | [0005-longest-palindromic-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/yadavkuldeep1017/leetcode/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/yadavkuldeep1017/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/yadavkuldeep1017/leetcode/tree/main/0139-word-break/) | Medium |
@@ -173,6 +175,7 @@ Leetcode problems solved by me...
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/yadavkuldeep1017/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/yadavkuldeep1017/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
