@@ -6,38 +6,28 @@ class Solution {
             countT.put(ch, countT.getOrDefault(ch, 0) + 1);
         }
 
-        List<Integer> pos = new ArrayList();
         int sLen = s.length();
         int tLen = t.length();
-        for(int i = 0; i < sLen; i++){
-            char ch = s.charAt(i);
-            if(t.contains(String.valueOf(ch))){
-                pos.add(i);
-            }
-        }
 
         int i = 0;
         int j = 0;
-        int n = pos.size();
         int leftIndex = -1;
         int rightIndex = -1;
         int minLength = Integer.MAX_VALUE;
         Map<Character, Integer> map = new HashMap();
-        while(j < n){
-            int index = pos.get(j);
-            char ch = s.charAt(index);
+        while(j < sLen){
+            char ch = s.charAt(j);
             map.put(ch, map.getOrDefault(ch, 0) + 1);
             while(i <= j && mapEquals(map, countT)){
-                int index2 = pos.get(i);
-                if(minLength > index - index2 + 1){
-                    minLength = index - index2 + 1;
-                    leftIndex = index2;
-                    rightIndex = index;
+                if(minLength > j - i + 1){
+                    minLength = j - i + 1;
+                    leftIndex = i;
+                    rightIndex = j;
                 }
                 if(minLength == tLen){
                     return s.substring(leftIndex, rightIndex + 1);
                 }
-                char iChar = s.charAt(index2);
+                char iChar = s.charAt(i);
                 int value = map.get(iChar);
                 if(value == 1){
                     map.remove(iChar);
