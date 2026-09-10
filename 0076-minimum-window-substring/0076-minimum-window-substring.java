@@ -1,61 +1,75 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public String minWindow(String s, String t) {
-        Map<Character, Integer> countT = new HashMap();
-        for(char ch: t.toCharArray()){
-            countT.put(ch, countT.getOrDefault(ch, 0) + 1);
+        if (t.isEmpty() || s.length() < t.length()) {
+            return "";
         }
 
-        int sLen = s.length();
-        int tLen = t.length();
+        Map<Character, Integer> target = new HashMap<>();
+        for (char ch : t.toCharArray()) {
+            target.put(ch, target.getOrDefault(ch, 0) + 1);
+        }
 
-        int i = 0;
-        int j = 0;
-        int leftIndex = -1;
-        int rightIndex = -1;
-        int minLength = Integer.MAX_VALUE;
-        Map<Character, Integer> map = new HashMap();
-        while(j < sLen){
-            char ch = s.charAt(j);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-            while(i <= j && mapEquals(map, countT)){
-                if(minLength > j - i + 1){
-                    minLength = j - i + 1;
-                    leftIndex = i;
-                    rightIndex = j;
-                }
-                if(minLength == tLen){
-                    return s.substring(leftIndex, rightIndex + 1);
-                }
-                char iChar = s.charAt(i);
-                int value = map.get(iChar);
-                if(value == 1){
-                    map.remove(iChar);
-                }
-                else{
-                    map.put(iChar, value - 1);
-                }
-                i++;
-            }
-            j++;
-        }
-        return leftIndex == -1 ? "" : s.substring(leftIndex, rightIndex + 1);
-    }
-    boolean mapEquals(Map<Character, Integer> map1, Map<Character, Integer> map2){
-        if(map1.size() < map2.size()){
-            return false;
-        }
-        for(char ch: map2.keySet()){
-            if(map1.containsKey(ch)){   
-                int value2 = map2.get(ch);
-                int value1 = map1.get(ch);
-                if(value1 < value2){
-                    return false;
+        Map<Character, Integer> window = new HashMap<>();
+
+        int required = target.size();
+        int formed = 0;
+
+        int left = 0;
+        int bestStart = -1;
+        int bestLength = Integer.MAX_VALUE;
+
+        for (int right = 0; right < s.length(); right++) {
+            char added = s.charAt(right);
+
+            // Only track characters required by t.
+            Integer needed = target.get(added);
+            if (needed != null) {
+                int newCount = window.getOrDefault(added, 0) + 1;
+                window.put(added, newCount);
+
+                // This character has just reached its required count.
+                if (newCount == needed.intValue()) {
+                    formed++;
                 }
             }
-            else{
-                return false;
+
+            // Shrink while the window still contains everything required.
+            while (formed == required) {
+                int length = right - left + 1;
+
+                if (length < bestLength) {
+                    bestLength = length;
+                    bestStart = left;
+                }
+
+                // No valid window can be shorter than t.
+                if (bestLength == t.length()) {
+                    return s.substring(bestStart, bestStart + bestLength);
+                }
+
+                char removed = s.charAt(left);
+                Integer neededForRemoved = target.get(removed);
+
+                if (neededForRemoved != null) {
+                    int oldCount = window.get(removed);
+
+                    // Removing this character will make its count too small.
+                    if (oldCount == neededForRemoved.intValue()) {
+                        formed--;
+                    }
+
+                    window.put(removed, oldCount - 1);
+                }
+
+                left++;
             }
         }
-        return true;
+
+        return bestStart == -1
+                ? ""
+                : s.substring(bestStart, bestStart + bestLength);
     }
 }
