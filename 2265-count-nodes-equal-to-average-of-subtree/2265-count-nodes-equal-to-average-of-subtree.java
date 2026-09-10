@@ -15,37 +15,37 @@
  */
 class Solution {
     int ans = 0;
-    public Integer[] average(TreeNode root){
+    public int[] average(TreeNode root){
         if(root.left == null && root.right == null){
             ans++;
-            return new Integer[] { 1, root.val};
+            return new int[] { 1, root.val};
         }
         int sum = root.val;
         int count = 1;
-        Integer[] left = null;
-        Integer[] right = null;
+        int[] left = new int[]{-1, 0};
+        int[] right = new int[]{-1, 0};
         if(root.left != null){
             left = average(root.left);
         }
         if(root.right != null){
             right = average(root.right);
         }
-        if(left != null && right != null){
+        if(left[0] != -1 && right[0] != -1){
             sum += left[1] + right[1];
             count += left[0] + right[0];
         }
-        else if(left == null){
+        else if(left[0] == -1){
             sum += right[1];
             count += right[0];
         } 
         else{
             sum += left[1];
-            count += left[0] ;
+            count += left[0];
         }
         if(sum / count == root.val){
             ans++;
         }
-        return new Integer[]{count, sum};
+        return new int[]{count, sum};
     }
     public int averageOfSubtree(TreeNode root) {
         average(root);
