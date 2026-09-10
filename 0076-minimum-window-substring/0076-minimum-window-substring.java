@@ -1,17 +1,15 @@
 class Solution {
     public String minWindow(String s, String t) {
 
-        // if(s.length() < t.length()){
-        //     return "";
-        // }
-
         Map<Character, Integer> countT = new HashMap();
         for(char ch: t.toCharArray()){
             countT.put(ch, countT.getOrDefault(ch, 0) + 1);
         }
 
         List<Integer> pos = new ArrayList();
-        for(int i = 0; i < s.length(); i++){
+        int sLen = s.length();
+        int tLen = t.length();
+        for(int i = 0; i < sLen; i++){
             char ch = s.charAt(i);
             if(t.contains(String.valueOf(ch))){
                 pos.add(i);
@@ -31,11 +29,13 @@ class Solution {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
             while(i <= j && mapEquals(map, countT)){
                 int index2 = pos.get(i);
-                // System.out.println(map+" "+index+" "+index2+" "+ch);
                 if(minLength > index - index2 + 1){
                     minLength = index - index2 + 1;
                     leftIndex = index2;
                     rightIndex = index;
+                }
+                if(minLength == tLen){
+                    return s.substring(leftIndex, rightIndex + 1);
                 }
                 char iChar = s.charAt(index2);
                 int value = map.get(iChar);
