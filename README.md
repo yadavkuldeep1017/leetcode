@@ -83,6 +83,7 @@ Leetcode problems solved by me...
 | [0628-maximum-product-of-three-numbers](https://github.com/yadavkuldeep1017/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/yadavkuldeep1017/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/yadavkuldeep1017/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/yadavkuldeep1017/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/yadavkuldeep1017/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/yadavkuldeep1017/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -200,6 +201,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/yadavkuldeep1017/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/yadavkuldeep1017/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/yadavkuldeep1017/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yadavkuldeep1017/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yadavkuldeep1017/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
