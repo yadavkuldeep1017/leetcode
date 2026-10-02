@@ -6,6 +6,7 @@ Leetcode problems solved by me...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yadavkuldeep1017/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/yadavkuldeep1017/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yadavkuldeep1017/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/yadavkuldeep1017/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -62,6 +63,7 @@ Leetcode problems solved by me...
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yadavkuldeep1017/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/yadavkuldeep1017/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/yadavkuldeep1017/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/yadavkuldeep1017/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/yadavkuldeep1017/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/yadavkuldeep1017/leetcode/tree/main/0057-insert-interval/) | Medium |
